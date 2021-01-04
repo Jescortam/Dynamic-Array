@@ -1,5 +1,5 @@
 # Dynamic-Array
-My C++ implementation of a dynamic array. It was made with VS, based of the William Fiset's tutorial: "[Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)" on YouTube.
+My C++ implementation of a dynamic array. It was made with VS, based from the William Fiset's tutorial: "[Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)" on YouTube.
 
 ## Operations
 1. Add an element.
